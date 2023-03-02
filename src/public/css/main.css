@@ -1,0 +1,16 @@
+body {
+    background: #ffffff;  /* fallback for old browsers */
+}
+
+#contentWrap {
+    display: none;
+}
+
+.error {
+    color: red;
+}
+
+.whisper {
+    color: gray;
+    font-style: italic;
+}
